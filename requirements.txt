@@ -1,0 +1,5 @@
+# Packages imported by Hadaf_AI_Certifications_Advisor.ipynb
+langchain-openai
+langchain-community
+langgraph
+tavily-python
