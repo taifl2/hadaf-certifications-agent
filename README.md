@@ -99,4 +99,4 @@ Not included yet. The notebook is committed without saved outputs; a recorded ex
 
 ## Author
 
-Taif Al-Anzi · [LinkedIn](https://www.linkedin.com/in/taif-alanzi-is/)
+Taif Al-Anzi · [LinkedIn](https://www.linkedin.com/in/taifalanzi/)
